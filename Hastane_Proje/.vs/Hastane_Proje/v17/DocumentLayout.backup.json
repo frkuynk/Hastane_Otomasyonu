@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\OmerUYANIK\\source\\repos\\Hastane_Proje\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D1E6AB49-4378-46D0-8084-AFF071C1B0B9}|Hastane_Proje\\Hastane_Proje.csproj|c:\\users\\omeruyanik\\source\\repos\\hastane_proje\\hastane_proje\\hastadetay.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D1E6AB49-4378-46D0-8084-AFF071C1B0B9}|Hastane_Proje\\Hastane_Proje.csproj|solutionrelative:hastane_proje\\hastadetay.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1E6AB49-4378-46D0-8084-AFF071C1B0B9}|Hastane_Proje\\Hastane_Proje.csproj|C:\\Users\\OmerUYANIK\\source\\repos\\Hastane_Proje\\hastane_proje\\hastag\u0130r\u0130\u015F.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D1E6AB49-4378-46D0-8084-AFF071C1B0B9}|Hastane_Proje\\Hastane_Proje.csproj|solutionrelative:hastane_proje\\hastag\u0130r\u0130\u015F.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1E6AB49-4378-46D0-8084-AFF071C1B0B9}|Hastane_Proje\\Hastane_Proje.csproj|C:\\Users\\OmerUYANIK\\source\\repos\\Hastane_Proje\\hastane_proje\\hastag\u0130r\u0130\u015F.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D1E6AB49-4378-46D0-8084-AFF071C1B0B9}|Hastane_Proje\\Hastane_Proje.csproj|solutionrelative:hastane_proje\\hastag\u0130r\u0130\u015F.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HASTADETAY.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\OmerUYANIK\\source\\repos\\Hastane_Proje\\Hastane_Proje\\HASTADETAY.cs",
+              "RelativeDocumentMoniker": "Hastane_Proje\\HASTADETAY.cs",
+              "ToolTip": "C:\\Users\\OmerUYANIK\\source\\repos\\Hastane_Proje\\Hastane_Proje\\HASTADETAY.cs [Design]",
+              "RelativeToolTip": "Hastane_Proje\\HASTADETAY.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T20:37:40.018Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HASTAG\u0130R\u0130\u015E.cs",
+              "DocumentMoniker": "C:\\Users\\OmerUYANIK\\source\\repos\\Hastane_Proje\\Hastane_Proje\\HASTAG\u0130R\u0130\u015E.cs",
+              "RelativeDocumentMoniker": "Hastane_Proje\\HASTAG\u0130R\u0130\u015E.cs",
+              "ToolTip": "C:\\Users\\OmerUYANIK\\source\\repos\\Hastane_Proje\\Hastane_Proje\\HASTAG\u0130R\u0130\u015E.cs*",
+              "RelativeToolTip": "Hastane_Proje\\HASTAG\u0130R\u0130\u015E.cs*",
+              "ViewState": "AgIAAA8AAAAAAAAAAIA5wCAAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T20:31:20.446Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HASTAG\u0130R\u0130\u015E.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\OmerUYANIK\\source\\repos\\Hastane_Proje\\Hastane_Proje\\HASTAG\u0130R\u0130\u015E.cs",
+              "RelativeDocumentMoniker": "Hastane_Proje\\HASTAG\u0130R\u0130\u015E.cs",
+              "ToolTip": "C:\\Users\\OmerUYANIK\\source\\repos\\Hastane_Proje\\Hastane_Proje\\HASTAG\u0130R\u0130\u015E.cs [Design]*",
+              "RelativeToolTip": "Hastane_Proje\\HASTAG\u0130R\u0130\u015E.cs [Design]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T20:30:58.843Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
